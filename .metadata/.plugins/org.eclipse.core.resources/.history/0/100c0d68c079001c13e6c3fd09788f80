@@ -6,7 +6,7 @@ public class VirtualKey {
 	public static void main(String[] args) {
 		
 		// Don't forget to add '\\' at the end of the path.
-		String path = "C:\\Users\\vgunja\\OneDrive - Cisco\\Desktop\\Cisco\\Virtual\\";		
+		String path = "C:\\Users\\vgunja\\OneDrive - Cisco\\Desktop\\Cisco\\Git\\";		
 		
 		boolean flag = true;
 		FileHandling.DisplayMenu();
